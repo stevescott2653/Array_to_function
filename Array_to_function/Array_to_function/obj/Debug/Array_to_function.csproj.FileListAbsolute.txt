@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\Array_to_function\Array_to_function\bin\Debug\Array_to_function.exe.config
+D:\DEV\C#\Practice\Array_to_function\Array_to_function\bin\Debug\Array_to_function.exe
+D:\DEV\C#\Practice\Array_to_function\Array_to_function\bin\Debug\Array_to_function.pdb
+D:\DEV\C#\Practice\Array_to_function\Array_to_function\obj\Debug\Array_to_function.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\Array_to_function\Array_to_function\obj\Debug\Array_to_function.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\Array_to_function\Array_to_function\obj\Debug\Array_to_function.exe
+D:\DEV\C#\Practice\Array_to_function\Array_to_function\obj\Debug\Array_to_function.pdb
